@@ -41,7 +41,7 @@ Pie charts are useful for displaying proportional distributions of data. This pr
 To run the project locally, use the following command:
 
 ```bash
-npm start
+npm run dev
 This will start the development server and open the application in your default web browser. You should see a pie chart displayed with sample data.
 
 Customization
